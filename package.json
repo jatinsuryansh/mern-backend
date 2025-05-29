@@ -17,5 +17,8 @@
     "url": "https://github.com/jatinsuryansh/mern-backend/issues"
   },
   "homepage": "https://github.com/jatinsuryansh/mern-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
